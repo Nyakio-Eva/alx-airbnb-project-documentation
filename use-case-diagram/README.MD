@@ -3,6 +3,7 @@
 
 A backend system for a hotel and property booking platform, inspired by Airbnb.
 
+![Use Case Diagram](usecasediagram.drawio.png)
 
 
 ### Purpose
