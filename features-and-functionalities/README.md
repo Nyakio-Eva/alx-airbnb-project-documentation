@@ -3,7 +3,7 @@
 
 A backend system for a hotel and property booking platform, inspired by Airbnb. This repository contains the backend architecture, API design, and product planning documentation, starting with the Product Requirements Document (PRD).
 
-
+![product_requirements_document](airbnb-documentation.drawio.png)
 
 ### Purpose
 
